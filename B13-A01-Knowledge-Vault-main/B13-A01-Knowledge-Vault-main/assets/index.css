@@ -30,7 +30,7 @@ nav .menu ul{
     font-size: 16px;
     font-weight: 200;}
     .btn .bton:hover{
-        background-color:red;
+        background-color: red;
     }
     #banner{
         background: url(hero-bg.png);
