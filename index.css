@@ -1,7 +1,6 @@
 nav{
-    width: 1600px;px;
-   height: 92px;
-    
+   max-width: 1600px;
+   width: 100%;
     background-color: #FFFFFF;
     box-sizing: border-box;
     margin: 0 auto;
@@ -33,7 +32,7 @@ nav .menu ul{
         background-color: red;
     }
     #banner{
-        background: url(hero-bg.png);
+        background: url(./assets/hero-bg.png);
         background-repeat: no-repeat;
       
         width: 1700px;
