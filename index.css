@@ -1,3 +1,6 @@
+body{
+    overflow-x:hidden;
+}
 nav{
    max-width: 1600px;
    width: 100%;
@@ -35,7 +38,8 @@ nav .menu ul{
         background: url(./assets/hero-bg.png);
         background-repeat: no-repeat;
       
-        width: 1700px;
+        width: 1600px;
+        width: 100%;
         height: 674px;
         
         display: flex;
@@ -303,7 +307,8 @@ nav .menu ul{
        justify-content: center;
      }
      .footer{
-       width: 1600px;
+       width: 1400px;
+      
       margin-top: 80px;
        
         padding:30px 20px;
